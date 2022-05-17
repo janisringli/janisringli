@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center"> Hello, I'm Janis Ringli 🧑🏽‍💻 </h1>
 
-<!--
-**janisringli/janisringli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">  Tech Enthusiast | Software Developer </h3> <br>
 
-Here are some ideas to get you started:
+<p align="center"> 
+<a href="https://www.linkedin.com/in/janis-ri/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Janis_Ringli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janis-ri/"></a>
+<a href="https://twitter.com/Sir_Vandenhiven"><img alt="Twitter" src="https://img.shields.io/badge/-Janis Ringli-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Sir_Vandenhiven"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 🤔 About
+-  **Working :**  Web Development at Traily :computer: 
+-  **Learning :** Backend :zap: 
+-  **Hobbies :** Badminton 🏸 | Music :headphones: | Gaming 🎮
+-  **Ask me about :** Anything!, I'm happy to help :v:
+-  **Fun fact :** your ad here
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### ✨ Visitors 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=janisringli" alt="janisringli" /> </p>
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
