@@ -1,6 +1,8 @@
 <h1 align="center"> Hello, I'm Janis Ringli 🧑🏽‍💻 </h1>
 
 <h3 align="center">  Tech Enthusiast | Software Developer </h3> <br>
+<h3 align="center">  🖌 The computer is my canvas. </h3> <br>
+
 
 <p align="center"> 
 <a href="https://www.linkedin.com/in/janis-ri/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Janis_Ringli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janis-ri/"></a>
@@ -9,7 +11,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🤔 About
--  **Working :**  Web Development at Traily :computer: 
+-  **Working :**  Productowner & Teamleader @ HIVE :computer: 
 -  **Learning :** Backend :zap: 
 -  **Hobbies :** Badminton 🏸 | Music :headphones: | Gaming 🎮
 -  **Ask me about :** Anything!, I'm happy to help :v:
