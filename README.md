@@ -11,11 +11,11 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🤔 About
--  **Working :**  Productowner & Teamleader @ HIVE :computer: 
+-  **Working :** on my Personal Website :computer: 
 -  **Learning :** Backend :zap: 
--  **Hobbies :** Badminton 🏸 | Music :headphones: | Gaming 🎮
+-  **Hobbies :** Badminton 🏸 | Music :headphones: | Photography 📸
 -  **Ask me about :** Anything!, I'm happy to help :v:
--  **Fun fact :** your ad here
+-  **Fun fact :** You will die of radiation poisoning if you eat 10,000,000 Bananas
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### ✨ Visitors 
