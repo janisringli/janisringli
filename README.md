@@ -12,7 +12,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🤔 About
 -  **Working :** on my Personal Website :computer: 
--  **Learning :** Backend :zap: 
+-  **Learning :** Three.js 🔻
 -  **Hobbies :** Badminton 🏸 | Music :headphones: | Photography 📸
 -  **Ask me about :** Anything!, I'm happy to help :v:
 -  **Fun fact :** You will die of radiation poisoning if you eat 10,000,000 Bananas
