@@ -6,7 +6,6 @@
 
 <p align="center"> 
 <a href="https://www.linkedin.com/in/janis-ri/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Janis_Ringli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janis-ri/"></a>
-<a href="https://twitter.com/Sir_Vandenhiven"><img alt="Twitter" src="https://img.shields.io/badge/-Janis Ringli-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Sir_Vandenhiven"></a>
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
