@@ -10,9 +10,9 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🤔 About
--  **Working :** New plugins for Obsidian :computer: 
--  **Learning :** Three.js 🔻
--  **Hobbies :** Badminton 🏸 | Music :headphones: | Photography 📸
+-  **Working on:** New plugins for Obsidian :computer: 
+-  **Learning:** Three.js 🔻
+-  **Hobbies:** Badminton 🏸 | Music :headphones: | Photography 📸
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### ✨ Visitors 
